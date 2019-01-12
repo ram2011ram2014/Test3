@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # The name of the project to deploy services into.
-PROJECT_NAME="genat-test-1"
+PROJECT_NAME="qwiklabs-gcp-4cc4c8aafaf63680"
 
 # Which default region should regional services use?
 PROJECT_REGION="us-central1"
